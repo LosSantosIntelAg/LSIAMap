@@ -1,6 +1,6 @@
 NoPixel Territory map
 ====
-!(https://cdn.discordapp.com/attachments/675988726781968387/1245402417563172914/LSIABanner.png?ex=665f3662&is=665de4e2&hm=fa7560ff0311a0e396fc580b78c2679c49378dac5db21ba09d090f9222642819&) 
+!(LSIABanner.png) 
 
 
 ## How to submit new locations
