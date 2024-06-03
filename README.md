@@ -1,6 +1,6 @@
 NoPixel Territory map
 ====
-!(LSIABanner.png)
+![](LSIABanner.png)
 
 
 ## How to submit new locations
